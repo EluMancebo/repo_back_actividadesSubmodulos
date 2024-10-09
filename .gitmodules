@@ -4,6 +4,3 @@
 [submodule "front"]
 	path = front
 	url = https://github.com/EluMancebo/repo_front_actividadesSubmodulos.git
-[submodule "app"]
-	path = app
-	url = https://github.com/EluMancebo/repo_front_actividadesSubmodulos.git
