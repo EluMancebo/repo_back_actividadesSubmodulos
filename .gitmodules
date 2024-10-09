@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = https://github.com/EluMancebo/repo_back_actividadesSubmodulos.git
+[submodule "front"]
+	path = front
+	url = https://github.com/EluMancebo/repo_front_actividadesSubmodulos.git
